@@ -1,0 +1,30 @@
+_repo: Essai-sur-l--ducation-des-aveugles_26609
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Haüy, Valentin
+    alias: Hauy, Valentin
+    birthdate: 1745
+    deathdate: 1822
+    gutenberg_agent_id: '32122'
+    url: http://www.gutenberg.org/2009/agents/32122
+    wikipedia: http://fr.wikipedia.org/wiki/Valentin_Ha%C3%BCy
+description: ''
+gutenberg_bookshelf: FR Education et Enseignement
+gutenberg_issued: '2008-09-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26609'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Blind -- Education'
+- !lcsh 'Blind -- Printing and writing systems'
+title: Essai sur l'éducation des aveugles
+url: http://www.gutenberg.org/ebooks/26609
